@@ -1,4 +1,4 @@
-# mission_to_mars
+# Mission To Mars
 
 <p align="center">
   <img width="800" height="500" src="https://github.com/narayanan-nithya/mission_to_mars/blob/master/mission_to_mars.png">
